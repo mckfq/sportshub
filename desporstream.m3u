@@ -40,9 +40,9 @@ https://ddy6new.iosplayer.ru/ddy6/premium716/mono.m3u8|Referer=https://cookieweb
 
 # France
 
-#EXTINF:-1 tvg-id="BeIN1.fr" group-title="France" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_bein_sports_1.png",BeIN Sports 1
+#EXTINF:-1 tvg-id="BeIN1.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",BeIN Sports 1
 https://zekonew.koskoros.ru/zeko/premium116/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-id="BeIN2.fr" group-title="France" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_bein_sports_2.png",BeIN Sports 2
+#EXTINF:-1 tvg-id="BeIN2.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",BeIN Sports 2
 https://zekonew.koskoros.ru/zeko/premium117/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="BeIN3.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",BeIN Sports 3
 https://zekonew.koskoros.ru/zeko/premium118/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
@@ -103,6 +103,15 @@ https://windnew.koskoros.ru/wind/premium406/mono.m3u8|Referer=https://cookiewebp
 https://zekonew.koskoros.ru/zeko/premium759/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="SNWO.ca" group-title="Canada",Sportsnet World
 https://windnew.koskoros.ru/wind/premium410/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#USA
+
+#EXTINF:-1 tvg-id="MSG.us" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/MSG_Network_logo.png" ,MSG
+https://zekonew.koskoros.ru/zeko/premium765/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="FOXS1.us" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1024px-2015_Fox_Sports_1_logo.svg.png",FOX Sports 1
+https://zekonew.koskoros.ru/zeko/premium39/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="FOXS2.us" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1024px-FS2_logo_2015.svg.png",FOX Sports 2
+https://zekonew.koskoros.ru/zeko/premium758/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
 
 # United Kingdom
 
