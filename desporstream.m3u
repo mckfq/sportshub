@@ -40,11 +40,11 @@ https://ddy6new.iosplayer.ru/ddy6/premium716/mono.m3u8|Referer=https://cookieweb
 
 # France
 
-#EXTINF:-1 tvg-id="BeIN1.fr" group-title="France",BeIN Sports 1
+#EXTINF:-1 tvg-id="BeIN1.fr" group-title="France" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_bein_sports_1.png",BeIN Sports 1
 https://zekonew.koskoros.ru/zeko/premium116/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-id="BeIN2.fr" group-title="France",BeIN Sports 2
+#EXTINF:-1 tvg-id="BeIN2.fr" group-title="France" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_bein_sports_2.png",BeIN Sports 2
 https://zekonew.koskoros.ru/zeko/premium117/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-id="BeIN3.fr" group-title="France",BeIN Sports 3
+#EXTINF:-1 tvg-id="BeIN3.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",BeIN Sports 3
 https://zekonew.koskoros.ru/zeko/premium118/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="BeIN4.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",BeIN Sports MAX 4
 https://ddy6new.iosplayer.ru/ddy6/premium494/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
@@ -60,12 +60,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium498/mono.m3u8|Referer=https://cookieweb
 https://ddy6new.iosplayer.ru/ddy6/premium499/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="BeIN10.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",BeIN Sports MAX 10
 https://ddy6new.iosplayer.ru/ddy6/premium500/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-id="CanalSport.fr" group-title="France",Canal+ Sport
+#EXTINF:-1 tvg-id="CanalSport.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png",Canal+ Sport
 https://windnew.koskoros.ru/wind//premium122/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-id="CanalFoot.fr" group-title="France",Canal+ Foot
-https://windnew.koskoros.ru/wind//premium463/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-id="Canal360.fr" group-title="France",Canal+ 360
+#EXTINF:-1 tvg-id="Canal360.fr" group-title="France" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png",Canal+ Sport 360
 https://windnew.koskoros.ru/wind//premium464/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="CanalFoot.fr" group-title="France"tvg-logo="https://fr.wikipedia.org/wiki/Canal%2B_Foot#/media/Fichier:C+_Foot.png" ,Canal+ Foot
+https://windnew.koskoros.ru/wind//premium463/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
 
 # Canada French
 
