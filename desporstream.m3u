@@ -108,10 +108,24 @@ https://windnew.koskoros.ru/wind/premium410/mono.m3u8|Referer=https://cookiewebp
 
 #EXTINF:-1 tvg-id="MSG.us" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/MSG_Network_logo.png" ,MSG
 https://zekonew.koskoros.ru/zeko/premium765/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+
 #EXTINF:-1 tvg-id="FOXS1.us" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1024px-2015_Fox_Sports_1_logo.svg.png",FOX Sports 1
 https://zekonew.koskoros.ru/zeko/premium39/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="FOXS2.us" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1024px-FS2_logo_2015.svg.png",FOX Sports 2
 https://zekonew.koskoros.ru/zeko/premium758/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="NBCSBay.us" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1024px-NBC_Sports_2023.svg.png" ,NBC Sports Bay Area
+https://windnew.koskoros.ru/wind/premium753/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="NBCSBoston.us" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1024px-NBC_Sports_2023.svg.png"  ,NBC Sports Boston
+https://windnew.koskoros.ru/wind/premium754/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="NBCSCA.us" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1024px-NBC_Sports_2023.svg.png"  ,NBC Sports California
+https://windnew.koskoros.ru/wind/premium755/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="NBCSChicago.us" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1024px-NBC_Sports_2023.svg.png"  ,NBC Sports Chicago
+https://windnew.koskoros.ru/wind/premium776/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="NBCSPhiladelphia.us" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1024px-NBC_Sports_2023.svg.png"  ,NBC Sports Philadelphia
+https://zekonew.koskoros.ru/zeko/premium777/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="NBCSWashington.us" group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NBC_Sports_2023.svg/1024px-NBC_Sports_2023.svg.png"  ,NBC Sports Washington
+https://dokko1new.koskoros.ru/dokko1/premium778/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
 
 # United Kingdom
 
@@ -193,6 +207,13 @@ https://dokko1new.koskoros.ru/dokko1/premium556/mono.m3u8|Referer=https://cookie
 https://ddy6new.iosplayer.ru/ddy6/premium426/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="DAZN2.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1024px-DAZN_2.svg.png",DAZN 2 Deutschland
 https://ddy6new.iosplayer.ru/ddy6/premium427/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+# Russia
+
+#EXTINF:-1 tvg-id="KHL.ru" group-title="Russia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/KHL_2021.svg/revision/latest?cb=20210904092228.png",KHL
+https://dokko1new.koskoros.ru/dokko1/premium156/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="KHLPrime.ru" group-title="Russia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/KHL_Prime.svg/revision/latest?cb=20210904092250.png",KHL Prime
+https://dokko1new.koskoros.ru/dokko1/premium157/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
 
 # Link to test
 
