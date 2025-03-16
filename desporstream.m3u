@@ -221,9 +221,9 @@ https://ddy6new.iosplayer.ru/ddy6/premium427/mono.m3u8|Referer=https://cookieweb
 
 # Russia
 
-#EXTINF:-1 tvg-id="KHL.ru" group-title="Russia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/KHL_2021.svg/revision/latest?cb=20210904092228.png",KHL
+#EXTINF:-1 tvg-id="KHL.ru" group-title="Russia" tvg-logo="https://images.iptv.rt.ru/images/ch4djj3mhk079s3jpktg.png",KHL
 https://dokko1new.koskoros.ru/dokko1/premium156/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-id="KHLPrime.ru" group-title="Russia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/KHL_Prime.svg/revision/latest?cb=20210904092250.png",KHL Prime
+#EXTINF:-1 tvg-id="KHLPrime.ru" group-title="Russia" tvg-logo="https://ramnet.ru/tv/logo/000000711.png",KHL Prime
 https://dokko1new.koskoros.ru/dokko1/premium157/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
 
 # USA Sports Event - NBA-NFL-NHL
