@@ -153,7 +153,7 @@ https://dokko1new.koskoros.ru/dokko1/premium130/mono.m3u8|Referer=https://cookie
 #EXTINF:-1 tvg-id="SkyF1.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/1024px-Sky_Sports_F1_logo_2020.svg.png",Sky Sports F1
 https://windnew.koskoros.ru/wind/premium60/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-NF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 1
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" group-title="UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 1
 https://nfsnew.koskoros.ru/nfs/premium31/mono.m3u8|Referer=https://dokoplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://dokoplay.xyz
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" group-title="UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-2-uk.png",TNT Sports 2
 https://nfsnew.koskoros.ru/nfs/premium32/mono.m3u8|Referer=https://dokoplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://dokoplay.xyz
