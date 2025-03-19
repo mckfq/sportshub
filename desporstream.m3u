@@ -66,6 +66,8 @@ https://windnew.koskoros.ru/wind//premium122/mono.m3u8|Referer=https://cookieweb
 https://windnew.koskoros.ru/wind//premium464/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="CanalFoot.fr" group-title="France "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" ,Canal+ Foot
 https://windnew.koskoros.ru/wind//premium463/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="SportenFrance.fr" group-title="France "tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8a/Sport_en_France_2L_RVB.png" ,Sport en France
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 
 # Canada French
 
