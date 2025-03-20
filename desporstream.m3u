@@ -206,7 +206,6 @@ https://windnew.koskoros.ru/wind/premium41/mono.m3u8|Referer=https://dokoplay.xy
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" group-title="UK" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/eurosport-2.png",Eurosport 2 UK
 https://windnew.koskoros.ru/wind/premium42/mono.m3u8|Referer=https://dokoplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://dokoplay.xyz
 
-
 # Italy
 
 #EXTINF:-1 tvg-id="Skyfoot.it" group-title="Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png",Sky Sports Football Italia
@@ -280,7 +279,7 @@ https://ddy6new.iosplayer.ru/ddy6/premium427/mono.m3u8|Referer=https://cookieweb
 #EXTINF:-1 tvg-id="KHL.ru" group-title="Russia" tvg-logo="https://images.iptv.rt.ru/images/ch4djj3mhk079s3jpktg.png",KHL
 https://dokko1new.koskoros.ru/dokko1/premium156/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
 #EXTINF:-1 tvg-id="KHLPrime.ru" group-title="Russia" tvg-logo="https://ramnet.ru/tv/logo/000000711.png",KHL Prime
-https://dokko1new.koskoros.ru/dokko1/premium157/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+https://nix1-dc4new.koskoros.ru/nix1-dc4/khlprime/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
 # USA Sports Event - NBA-NFL-NHL
 
