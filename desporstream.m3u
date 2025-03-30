@@ -287,12 +287,12 @@ https://ddy6new.iosplayer.ru/ddy6/premium427/mono.m3u8|Referer=https://cookieweb
 #EXTINF:-1 tvg-id="KHLPrime.ru" group-title="Russia" tvg-logo="https://ramnet.ru/tv/logo/000000711.png",KHL Prime
 https://nix1-dc4new.koskoros.ru/nix1-dc4/khlprime/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-tv-ru.png" group-title="Russia",Match! TV
+https://ddy6new.koskoros.ru/ddy6/premium127/mono.m3u8|Referer=https://chimeracuddleplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://chimeracuddleplay.cfd
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-boets-ru.png" group-title="Russia",Match! Boets
 https://windnew.koskoros.ru/wind/premium395/mono.m3u8|Referer=https://chimeracuddleplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://chimeracuddleplay.cfd
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-premier-ru.png" group-title="Russia",Match! Premier
 https://ddy6new.koskoros.ru/ddy6/premium573/mono.m3u8|Referer=https://chimeracuddleplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://chimeracuddleplay.cfd
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-tv-ru.png" group-title="Russia",Match! TV
-https://ddy6new.koskoros.ru/ddy6/premium127/mono.m3u8|Referer=https://chimeracuddleplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://chimeracuddleplay.cfd
 
 # USA Sports Event - NBA-NFL-NHL
 
