@@ -191,6 +191,42 @@ http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="NFL.RedZone.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" tvg-name="NFL RedZone",NFL RedZone
 http://fl2.moveonjoy.com/NFL_RedZone/index.m3u8
 
+# Spain
+
+#EXTINF:-1 tvg-id="DAZN1.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DAZN_1.png",DAZN 1 España
+https://windnew.newkso.ru/wind/premium445/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="DAZN2.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/DAZN_2.png",DAZN 2 España
+https://zekonew.newkso.ru/zeko/premium446/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="DAZN3.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/DAZN_3.png",DAZN 3 España
+https://zekonew.newkso.ru/zeko/premium447/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="DAZN4.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/DAZN4.png",DAZN 4 España
+https://zekonew.newkso.ru/zeko/premium448/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="DAZNLL1.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/1024px-DAZN_LaLiga_2023_Logo.svg.png",DAZN LaLiga 1
+https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="DAZNLL2.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/1024px-DAZN_LaLiga_2023_Logo.svg.png",DAZN LaLiga 2
+https://windnew.newkso.ru/wind/premium43/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="DAZNF1.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1024px-DAZN_F1_logo.svg.png",DAZN F1 España
+https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="LaligaTV.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1024px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",LaLiga TV
+https://dokko1new.newkso.ru/dokko1/premium539/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="MoviLL.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1024px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",Movistar LaLiga
+https://windnew.newkso.ru/wind/premium84/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="MoviLDC.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png",Movistar Liga de Campeones
+https://zekonew.newkso.ru/zeko/premium435/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="MoviD1.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",Movistar Deportes
+https://zekonew.newkso.ru/zeko/premium436/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="MoviD2.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",Movistar Deportes 2
+https://zekonew.newkso.ru/zeko/premium438/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="MoviLDC.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",Movistar Deportes 3
+https://dokko1new.newkso.ru/dokko1/premium526/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+#EXTINF:-1 tvg-id="MoviLDC.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",Movistar Deportes 4
+https://dokko1new.newkso.ru/dokko1/premium527/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+
+#EXTINF:-1 tvg-id="OneToro.es" group-title="Spain" tvg-logo="https://uploads-eu-west-1.insided.com/nos-pt/attachment/264e94ca-5688-4a2c-a3d2-d01af07a1645.png",OneToro
+https://ddy6new.newkso.ru/ddy6/premium749/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
+
 # United Kingdom
 
 #EXTINF:-1 tvg-id="Skyfoot.uk" group-title="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png",Sky Sports Football UK
@@ -239,42 +275,6 @@ https://windnew.newkso.ru/wind/premium875/mono.m3u8|Referer=https://cookiewebpla
 #EXTINF:-1 tvg-id="SkyC6.it" group-title="Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sky_Sport_Calcio.svg/1024px-Sky_Sport_Calcio.svg.png",Sky Calcio 6
 https://windnew.newkso.ru/wind/premium876/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
 
-# Spain
-
-#EXTINF:-1 tvg-id="DAZN1.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1024px-DAZN_1_Logo.svg.png",DAZN 1 España
-https://windnew.newkso.ru/wind/premium445/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-id="DAZN2.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1024px-DAZN_2.svg.png",DAZN 2 España
-https://zekonew.newkso.ru/zeko/premium446/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-id="DAZN3.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DAZN_3.svg/1024px-DAZN_3.svg.png",DAZN 3 España
-https://zekonew.newkso.ru/zeko/premium447/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-id="DAZN4.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/DAZN_4.png",DAZN 4 España
-https://zekonew.newkso.ru/zeko/premium448/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-id="DAZNLL1.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/1024px-DAZN_LaLiga_2023_Logo.svg.png",DAZN LaLiga 1
-https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-id="DAZNLL2.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/1024px-DAZN_LaLiga_2023_Logo.svg.png",DAZN LaLiga 2
-https://windnew.newkso.ru/wind/premium43/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-id="DAZNF1.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1024px-DAZN_F1_logo.svg.png",DAZN F1 España
-https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
-
-#EXTINF:-1 tvg-id="LaligaTV.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/1024px-LaLiga_TV_Hypermotion_2023_Logo.svg.png",LaLiga TV
-https://dokko1new.newkso.ru/dokko1/premium539/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
-
-#EXTINF:-1 tvg-id="MoviLL.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1024px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",Movistar LaLiga
-https://windnew.newkso.ru/wind/premium84/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-id="MoviLDC.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png",Movistar Liga de Campeones
-https://zekonew.newkso.ru/zeko/premium435/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-id="MoviD1.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",Movistar Deportes
-https://zekonew.newkso.ru/zeko/premium436/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-id="MoviD2.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",Movistar Deportes 2
-https://zekonew.newkso.ru/zeko/premium438/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-id="MoviLDC.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",Movistar Deportes 3
-https://dokko1new.newkso.ru/dokko1/premium526/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
-#EXTINF:-1 tvg-id="MoviLDC.es" group-title="Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Deportes_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2023_Logo.svg.png",Movistar Deportes 4
-https://dokko1new.newkso.ru/dokko1/premium527/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
-
-#EXTINF:-1 tvg-id="OneToro.es" group-title="Spain" tvg-logo="https://uploads-eu-west-1.insided.com/nos-pt/attachment/264e94ca-5688-4a2c-a3d2-d01af07a1645.png",OneToro
-https://ddy6new.newkso.ru/ddy6/premium749/mono.m3u8|Referer=https://cookiewebplay.xyz/|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36|Origin=https://cookiewebplay.xyz
-
 # Germany
 
 #EXTINF:-1 tvg-id="SkyBD1.de" group-title="Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1024px-Sky_Sport_-_Logo_2020.svg.png",Sky Sports Bundesliga 1
@@ -289,7 +289,7 @@ https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8|Referer=https://cookiewebpla
 # Russia
 
 #EXTINF:-1 tvg-id="KHLPrime.ru" group-title="Russia" tvg-logo="https://ramnet.ru/tv/logo/000000711.png",KHL Prime
-https://nix1-dc4new.newkso.ru/nix1-dc4/khlprime/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
+https://x4new.newkso.ru/x4/khlprime/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/match-tv-ru.png" group-title="Russia",Match! TV
 https://ddy6new.newkso.ru/ddy6/premium127/mono.m3u8|Referer=https://chimeracuddleplay.cfd/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://chimeracuddleplay.cfd
